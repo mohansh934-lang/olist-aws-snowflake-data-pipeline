@@ -1,0 +1,9 @@
+*.bak
+build/
+data/
+keys/
+lambda_ingest.zip
+.terraform/
+terraform.tfvars
+*.tfstate*
+*.zip

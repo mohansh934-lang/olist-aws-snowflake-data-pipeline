@@ -1,0 +1,5 @@
+alert_email            = "you@example.com"
+snowflake_iam_user_arn = "arn:aws:iam::<snowflake-account-id>:user/<from DESC INTEGRATION>"
+snowflake_external_id  = "<from DESC INTEGRATION>"
+snowflake_account      = "<ORG-ACCOUNT>"
+schedule_state         = "DISABLED"

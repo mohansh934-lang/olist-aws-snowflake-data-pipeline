@@ -7,3 +7,4 @@ lambda_ingest.zip
 terraform.tfvars
 *.tfstate*
 *.zip
+README_.md
